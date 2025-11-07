@@ -415,7 +415,7 @@ form span{
 .sucess_icon {
     width: 7.5rem;
     height: 7.5rem;
-    background-color: var(--purple-100);
+    background-color: var(--purple-300);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -426,16 +426,6 @@ form span{
     width: 3.75rem;
     height: 3.75rem;
     fill: var(--purple-500);
-}
-
-.sucess_icon {
-    filter: saturate(100%) 
-            invert(9%) 
-            sepia(57%) 
-            saturate(3044%) 
-            hue-rotate(255deg) 
-            brightness(89%) 
-            contrast(105%);
 }
 
 .sucess_content h1 {

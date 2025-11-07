@@ -121,14 +121,18 @@
             </article>
 
             <!-- FORMULÁRIO -->
-            <form id="formulario">
+            <form action="https://formsubmit.co/7065d88cfa92a310a1da3b7a5effb0c9" method="POST" id="formulario">
+
+                <input type="hidden" name="_next" value="http://127.0.0.1:5500/sucess.html">
+                <input type="hidden" name="_captcha" value="false">
+                
                 <label for="nome">Nome</label>
                 <input id="nome" name="nome" type="text" placeholder="Digite o seu nome completo">
                 <span id="txtNome"></span>
 
                 <label for="email">E-mail</label>
                 <input id="email" name="email" type="text" placeholder="Digite o seu e-mail">
-                <span id="txtemail"></span>
+                <span id="txtEmail"></span>
 
                 <label for="assunto">Assunto</label>
                 <input id="assunto" name="assunto" type="text" placeholder="Digite o assunto da mensagem">
