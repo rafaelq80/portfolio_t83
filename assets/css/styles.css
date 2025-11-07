@@ -83,7 +83,7 @@ button{
 }
 
 .botao-outline{
-    border: 0.25rem solid var(--purple-500);
+    border: 0.15rem solid var(--purple-500);
     color: var(--purple-500);
     background-color: transparent;
 }
