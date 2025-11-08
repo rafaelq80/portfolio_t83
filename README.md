@@ -39,7 +39,8 @@ O site foi projetado para ser **leve, acessível e totalmente responsivo**, gara
     │   └── scripts.js     # Script principal do site
     └── 📁 docs/           # Documentação técnica complementar
         ├── css.md		   # Documentação técnica CSS
-        └── html.md		   # Documentação técnica HTML
+        ├── html.md		   # Documentação técnica HTML
+        └── js.md		   # Documentação técnica JS
 ```
 
 <br />
@@ -91,6 +92,7 @@ Isso abrirá o site em seu navegador padrão, e você poderá visualizar e testa
 
 1. [Estrutura do HTML](./assets/docs/html.md)
 2. [Estilização com CSS](./assets/docs/css.md)
+3. [Script JS](./assets/docs/js.md)
 
 <br />
 
