@@ -599,7 +599,7 @@ footer{
     /* About Section */
     .about_container {
         padding: 1.5rem 1rem;
-        margin: 2rem auto;
+        margin: 2rem 1rem;
     }
 
     .about_image img {
